@@ -1,0 +1,37 @@
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+}
+
+#index {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button {
+    font-size: 20px;
+}
+
+.header {
+    font-size: 55px;
+    text-align: center;
+}
+
+.description {
+    font-size: 35px;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.text,
+.button,
+.description,
+.header {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
