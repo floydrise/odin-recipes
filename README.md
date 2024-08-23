@@ -7,3 +7,5 @@ The taks of this project are as follows:
     * Insert images and use lists
 
 Overall pracice beginner level HTML.
+
+Link to live preview here: https://floydrise.github.io/odin-recipes/
